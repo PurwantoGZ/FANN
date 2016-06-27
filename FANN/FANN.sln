@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FANN", "FANN\FANN.csproj", "{0D5AC806-F435-4CD8-B8C4-B8E635543A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FANN.Test", "FANN.Test\FANN.Test.csproj", "{99271F86-300E-4403-85D8-C24F1D67C384}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D5AC806-F435-4CD8-B8C4-B8E635543A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D5AC806-F435-4CD8-B8C4-B8E635543A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D5AC806-F435-4CD8-B8C4-B8E635543A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D5AC806-F435-4CD8-B8C4-B8E635543A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99271F86-300E-4403-85D8-C24F1D67C384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99271F86-300E-4403-85D8-C24F1D67C384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99271F86-300E-4403-85D8-C24F1D67C384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99271F86-300E-4403-85D8-C24F1D67C384}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
