@@ -21,4 +21,7 @@ Created by PurwantoGZ
 #
 #
 ![alt tag](https://github.com/PurwantoGZ/FANN/blob/master/ScreenShoot.png)
-  
+
+#HASIL
+#
+![alt tag](https://github.com/PurwantoGZ/FANN/blob/master/Result.png)
