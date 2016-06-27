@@ -37,7 +37,7 @@ namespace FANN.Test
 
             int numWeights = (numInput * numHidden) + (numHidden * numOutput) + numHidden + numOutput;
             double[] weights = new double[numWeights];
-            Neuron nn = new Neuron(numInput, numHidden, numOutput);
+            FANN nn = new FANN(numInput, numHidden, numOutput);
 
             Console.WriteLine("Creating a {0}-input, {1}-hidden, {2}-output neural network", numInput, numHidden, numOutput);
             Console.WriteLine("Inisialisasi Weights");
