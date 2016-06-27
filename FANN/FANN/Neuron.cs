@@ -450,10 +450,9 @@ namespace FANN
                         ComputeOutputs(xValues);
                         UpdateWeights(tValues, learnRate, momentum);
                     }
-                    if (epoch%100==0)
-                    {
+                   
                         Console.WriteLine("Epoch: {0}, SSE: {1}", epoch, mse);
-                    }
+                    
                     
                 } while ((epoch < maxEpoch) && (mse > maxError));
             }
