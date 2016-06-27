@@ -18,4 +18,7 @@ Created by PurwantoGZ
     *) Momentum digunakan untuk meningkatkan Proses Belajar
 
 4. Buat Object Class dari Clas Fann
+#
+#
+![alt tag](https://github.com/PurwantoGZ/FANN/blob/master/ScreenShoot.png)
   
