@@ -1,6 +1,5 @@
 # FANN
 Fast Artificial Neural Network Using C# Laguage
-Created by PurwantoGZ
 
 #Arsitektur Backpropagation
 # 
